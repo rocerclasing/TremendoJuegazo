@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "title": "Steel Gloves",
+    "value": 6,
+    "stats": {
+      "power": 1,
+      "defense": 4,
+      "vitality": 3
+    },
+    "description": "c:",
+    "stackable": false,
+    "rarity": 1,
+    "slug": "metal_gloves"
+  },
+
+  {
+    "id": 1,
+    "title": "The Great Stick",
+    "value": 543,
+    "stats": {
+      "power": 10,
+      "defense": 9,
+      "vitality": 19
+    },
+    "description": ":O",
+    "stackable": false,
+    "rarity": 3,
+    "slug": "the_great_stick"
+  }
+]
